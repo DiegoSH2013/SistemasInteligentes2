@@ -1,0 +1,10 @@
+name: ventas-ml-env
+dependencies:
+  - python=3.12.3
+  - scikit-learn
+  - pandas
+  - tensorflow
+  - matplotlib
+  - pip
+  - pip:
+    - joblib
